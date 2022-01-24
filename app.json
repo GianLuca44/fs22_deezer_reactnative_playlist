@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "fs22_deezer_reactnative",
+    "slug": "fs22_deezer_reactnative",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "fs22_deezer_reactnative"
+}
